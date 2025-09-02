@@ -1,2 +1,2 @@
 # ds-capstone
-Repo for ds capstone project on coursera
+Repo for data science capstone project on coursera (SPACEX)
